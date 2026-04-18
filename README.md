@@ -1,4 +1,4 @@
-# 🔬 OCT Bioabsorbable Stent Segmentation — U-Net Deep Learning
+# 🔬 OCT Bioabsorbable Stent detection — U-Net Deep Learning
 
 > Évaluation de méthodes de segmentation de stents biorésorbables en imagerie OCT  
 > **Université Clermont Auvergne** · Master 2 TSI-ITM · 2024–2025  
@@ -9,7 +9,7 @@
 
 ## 📌 Description
 
-Ce projet porte sur la **segmentation automatique des struts de stents biorésorbables** dans des images intravasculaires obtenues par Tomographie par Cohérence Optique (OCT).
+Ce projet porte sur la **détection automatique des struts de stents biorésorbables** dans des images intravasculaires obtenues par Tomographie par Cohérence Optique (OCT).
 
 Les stents biorésorbables, en polymère, se résorbent progressivement dans l'organisme après implantation. Une segmentation précise de leurs mailles (struts) est essentielle pour :
 - Vérifier le bon positionnement du stent sur la paroi artérielle
